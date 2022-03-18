@@ -7,4 +7,4 @@ This workshop coverd
 --Basic data handling
 --Building basic Machine Learning model
 The link to the workshop can be found here : 
-{https://www.youtube.com/watch?v=A2lmDO76wGo&list=WL&index=104}
+https://www.youtube.com/watch?v=A2lmDO76wGo&list=WL&index=104
